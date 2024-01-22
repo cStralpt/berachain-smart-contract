@@ -1,8 +1,4 @@
-# Sample Hardhat Project
-
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
+# Todo Smart Contract for Berachain
 
 ```shell
 npx hardhat help
@@ -11,3 +7,5 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+get your BERA token:
+https://artio.faucet.berachain.com/
